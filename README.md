@@ -21,6 +21,5 @@ This project features a 5-degree-of-freedom robotic arm designed using [Tinkerca
 - Integrate with joystick or button interface
 - Simulate motion via embedded systems
 
-## 🖼 Preview
 
-> Add screenshots or a public Tinkercad link here if available.
+
